@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/4/21 20:19:08。
+     1>项目“C:\Users\DELL\Desktop\demo\badusb\badusb\badusb.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\badusb.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt badusb.cpp
+         badusb.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DELL\Desktop\demo\badusb\Release\badusb.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DELL\Desktop\demo\badusb\Release\badusb.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"myShell" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DELL\Desktop\demo\badusb\Release\badusb.lib" /MACHINE:X86 /SAFESEH /align:256 Release\badusb.obj
+         Release\stdafx.obj
+     1>LINK : warning LNK4108: 已指定 /ALIGN 而没有指定 /DRIVER；映像可能不能运行
+         正在生成代码
+         已完成代码的生成
+     1>badusb.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+         badusb.vcxproj -> C:\Users\DELL\Desktop\demo\badusb\Release\badusb.exe
+     1>已完成生成项目“C:\Users\DELL\Desktop\demo\badusb\badusb\badusb.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.06

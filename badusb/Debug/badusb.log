@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/4/20 1:50:51。
+     1>项目“C:\Users\DELL\Desktop\demo\badusb\badusb\badusb.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\badusb.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt badusb.cpp
+         badusb.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DELL\Desktop\demo\badusb\Debug\badusb.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DELL\Desktop\demo\badusb\Debug\badusb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DELL\Desktop\demo\badusb\Debug\badusb.lib" /MACHINE:X86 Debug\badusb.obj
+         Debug\stdafx.obj
+     1>badusb.obj : warning LNK4258: 指令“/entry:mainCRTStartup”与开关“/ENTRY:main”不兼容；已忽略
+         badusb.vcxproj -> C:\Users\DELL\Desktop\demo\badusb\Debug\badusb.exe
+     1>已完成生成项目“C:\Users\DELL\Desktop\demo\badusb\badusb\badusb.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.31
